@@ -19,3 +19,5 @@ How To use DCPAssistant:
 11. For every image you want to have in your selected output folder, check the 'Keep' box
 12. Archive the stuff you want to have saved seperately from your output, otherwise it will get deleted. I recommend archiving the input and the originals. The originals in the archive can be used by the program for future decensorings, so you need not re-add them if you want to decensor an image a second time
 13. Profit
+
+[Twitter](https://twitter.com/DCPAssistant)
