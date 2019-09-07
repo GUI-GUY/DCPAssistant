@@ -1,7 +1,7 @@
 # DCPAssistant
 A GUI tool for easy input and selection of the best decensoring from multiple instances of [DeepCreamPy created by deeppomf](https://github.com/deeppomf/DeepCreamPy)
 
-Current version: [beta 1.1.0 (PrettyBackwards)]()
+Current version: [beta 1.1.0 (PrettyBackwards)](https://github.com/DCPAssistant/DCPAssistant/releases/tag/v1.1.0-beta)
 
 Note: DCPAssistant works only on windows and only with the windows versions of DeepCreamPy as of now
 
