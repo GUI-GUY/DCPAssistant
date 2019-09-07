@@ -1,0 +1,17 @@
+beta v1.0.0
+Added everything for first version
+
+beta v1.1.0
++ Added timer for each version
++ Added timers to stats
++ Added image counter on image selection screen
++ Added new Archive options (Not selected and manually)
++ Added back button on image selection screen
++ Added memory for checkbuttons on image selection screen
++ Program now detects your screen resolution and opens zoomed 
++ If something goes wrong all output will be moved to the error_output folder located in the Working directory
+
+> Made Interface more pleasing to look at
+> Fixed progressbar not filling up completely
+
+- Removed output folder since it was redundant
