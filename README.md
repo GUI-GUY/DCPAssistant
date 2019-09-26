@@ -5,6 +5,11 @@ Current version: [beta 1.1.0 (PrettyBackwards)](https://github.com/DCPAssistant/
 
 Note: DCPAssistant works only on windows and only with the windows versions of DeepCreamPy as of now
 
+KNOWN ISSUES:
+1.Time Counter doesnt roll over at 01:59:59, istead counts minutes
+2.Windows' Thumbs.db file counts towards input which leads the program to never finish and spit out an Error in Image select
+  Quick Fix: Put any extra image into the decensor_output folder of the chosen DCP-versions
+  
 How To use DCPAssistant:
 1. Click 'Open DCP-versions' and put an untouched copy of every version of DeepCreamPy you want to use in there
 2. Click 'Set output' and select the output you want your selected images saved in later
