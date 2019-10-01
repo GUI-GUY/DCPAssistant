@@ -1,7 +1,7 @@
-beta v1.0.0
+beta v1.0.0(ItWorks)
 Added everything for first version
 
-beta v1.1.0
+beta v1.1.0(PrettyBackwards)
 + Added timer for each version
 + Added timers to stats
 + Added image counter on image selection screen
@@ -15,3 +15,19 @@ beta v1.1.0
 > Fixed progressbar not filling up completely
 
 - Removed output folder since it was redundant
+
+beta v1.2.0(TheFirstGreatRefucktoring)
++ Added keyboard support on the image select screen(Arrow and numbered keys)
++ Added input and original image counter on the start sceen
++ Added indicator of how many images were actually decensored by each version on the All/Manual select screen
++ Added colour to some text
+
+> All columns on the images select screen are now static
+> Put the version select screen on the start screen
+> Start screen now automatically refreshes
+> Image select screen has been compressed to make more space for displayed images
+> Fixed bug where time counter wouldn't roll over at 2 hours (hopefully)
+> Fixed bug where non-png files could still end up in the DCP folders completely blocking the GUI
+> Removed redundancies and shortened unneccesarily long code
+
+- Removed all messageboxes that are not Errors
