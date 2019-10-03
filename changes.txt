@@ -29,5 +29,6 @@ beta v1.2.0(TheFirstGreatRefucktoring)
 > Fixed bug where time counter wouldn't roll over at 2 hours (hopefully)
 > Fixed bug where non-png files could still end up in the DCP folders completely blocking the GUI
 > Removed redundancies and shortened unneccesarily long code
+> Reduced filesize by 200%
 
 - Removed all messageboxes that are not Errors
