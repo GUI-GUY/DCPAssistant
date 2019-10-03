@@ -26,5 +26,5 @@ For the 3 people who care:
 
 This GUI will not be supported indefinitely, developement will halt if one of the following things happens:
 1. deeppomf asks me to stop developing it
-2. I cannot start DCP anymore without opening the official DPC-GUI
+2. I cannot start DCP anymore without opening the official DCP-GUI
 3. The official DCP-GUI is more feature rich than mine
